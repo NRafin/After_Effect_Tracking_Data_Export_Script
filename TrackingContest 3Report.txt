@@ -1,0 +1,41 @@
+Report created: 
+	07/11/2024	9:05:51 am
+
+Project name: TrackingContest 3.aep
+
+Source files collected to: 
+	D:\PROJECTS\Freelance\Contest\TrackingContest\ShirtTracking
+
+Source files collected: All
+
+Collected comps:  
+	Notting Hill - Blank Shirt Down Stairs
+	Hello, this is a test Comp 1
+	
+Number of collected files:  1
+
+Size of collected files:  3.2 MB
+
+Collected source files: 
+	C:\Users\KAMRAN\Downloads\Notting Hill - Blank Shirt Down Stairs.GIF
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  5
+
+Effect:  Fill
+	
+Effect:  Gaussian Blur
+	
+Effect:  Match Grain
+	
+Effect:  Mesh Warp
+	
+Effect:  Mocha Pro
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Garamond”, Font style: “Bold”
+

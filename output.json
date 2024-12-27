@@ -1,0 +1,131 @@
+{
+    "name": "Head_Movement_Shot",
+    "duration": 2.5,
+    "frameRate": 29.97,
+    "width": 1920,
+    "height": 1080,
+    "layers": [
+      {
+        "name": "Head_Track",
+        "index": 1,
+        "type": "trackLayer",
+        "frames": [
+          {
+            "frame": 0,
+            "time": 0.0,
+            "transform": {
+              "position": {"x": 960, "y": 540},
+              "scale": {"x": 100, "y": 100},
+              "rotation": 0,
+              "opacity": 100,
+              "skew": {"x": 0, "y": 0}
+            },
+            "trackerPoints": [
+              {
+                "name": "Eye_Corner",
+                "position": [920, 530],
+                "confidence": 0.95
+              },
+              {
+                "name": "Ear_Top",
+                "position": [1020, 520],
+                "confidence": 0.98
+              }
+            ]
+          },
+          {
+            "frame": 15,
+            "time": 0.5,
+            "transform": {
+              "position": {"x": 975, "y": 538},
+              "scale": {"x": 102, "y": 101},
+              "rotation": -5,
+              "opacity": 100,
+              "skew": {"x": 2, "y": 1}
+            },
+            "trackerPoints": [
+              {
+                "name": "Eye_Corner",
+                "position": [935, 528],
+                "confidence": 0.92
+              },
+              {
+                "name": "Ear_Top",
+                "position": [1040, 518],
+                "confidence": 0.96
+              }
+            ]
+          },
+          {
+            "frame": 30,
+            "time": 1.0,
+            "transform": {
+              "position": {"x": 990, "y": 535},
+              "scale": {"x": 105, "y": 103},
+              "rotation": -8,
+              "opacity": 100,
+              "skew": {"x": 4, "y": 2}
+            },
+            "trackerPoints": [
+              {
+                "name": "Eye_Corner",
+                "position": [950, 525],
+                "confidence": 0.94
+              },
+              {
+                "name": "Ear_Top",
+                "position": [1060, 515],
+                "confidence": 0.97
+              }
+            ]
+          },
+          {
+            "frame": 45,
+            "time": 1.5,
+            "transform": {
+              "position": {"x": 1005, "y": 532},
+              "scale": {"x": 107, "y": 104},
+              "rotation": -12,
+              "opacity": 100,
+              "skew": {"x": 5, "y": 3}
+            },
+            "trackerPoints": [
+              {
+                "name": "Eye_Corner",
+                "position": [965, 522],
+                "confidence": 0.91
+              },
+              {
+                "name": "Ear_Top",
+                "position": [1080, 512],
+                "confidence": 0.95
+              }
+            ]
+          },
+          {
+            "frame": 60,
+            "time": 2.0,
+            "transform": {
+              "position": {"x": 1015, "y": 530},
+              "scale": {"x": 108, "y": 105},
+              "rotation": -15,
+              "opacity": 100,
+              "skew": {"x": 6, "y": 3}
+            },
+            "trackerPoints": [
+              {
+                "name": "Eye_Corner",
+                "position": [975, 520],
+                "confidence": 0.93
+              },
+              {
+                "name": "Ear_Top",
+                "position": [1090, 510],
+                "confidence": 0.96
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
